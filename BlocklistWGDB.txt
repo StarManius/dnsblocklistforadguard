@@ -164,3 +164,4 @@
 ||p.rfihub.com^
 ||blog.bellerbyandco.com^
 ||polyfill.io^
+||cdn.polyfill.io^
