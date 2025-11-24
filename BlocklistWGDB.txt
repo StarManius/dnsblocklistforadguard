@@ -263,7 +263,7 @@
 ||locketthose.com^
 ||instagram-my.ru^
 ||matomo.triple-ds.de^
-||loft-spa.de
+||loft-spa.de^
 ||www.tuerkeireiseblog.de^
 ||cdn.bootcss.com^
 ||stepn-bonus.com^
