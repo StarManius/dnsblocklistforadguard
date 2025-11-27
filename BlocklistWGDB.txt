@@ -268,3 +268,4 @@
 ||cdn.bootcss.com^
 ||stepn-bonus.com^
 ||weebly.com^
+||orbidapparels.com^
