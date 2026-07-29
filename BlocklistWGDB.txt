@@ -274,3 +274,4 @@
 ||saltradeltd.store^
 ||wa.me^
 ||binkwin.com^
+||confirm.mail.daum.net^
